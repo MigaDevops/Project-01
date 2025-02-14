@@ -106,19 +106,19 @@ end
 vagrant up
 ```
 
-![alt text](image/Vup.PNG)
+![alt text](image/Vabrantup.PNG)
 
 This command downloads the box (if it’s not already downloaded), creates the VM, and provisions it as defined in the Vagrantfile.
 
 * Verify from the VirtualBox that the Virtual machine is already running:
 
-![alt text](image/Vion.PNG)
+![alt text](image/Vboxverification.PNG)
 
 * Access the VM:
 ```
 vagrant ssh
 ```
-![alt text](image/Vassh.PNG)
+![alt text](image/Vagrantssh.PNG)
 
 ---
 
@@ -133,7 +133,7 @@ You should see the message:
 
 "Welcome to Vagrant VM".
 
-![alt text](image/Wm.PNG)
+![alt text](image/Wtvvm.PNG)
 
 ---
 
